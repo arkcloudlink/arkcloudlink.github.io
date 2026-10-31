@@ -1,4 +1,3 @@
-# arkcloudlink.github.io
 
 # Installation Document of Arch Linux  
 ## Step 1: *Download the ISO*  
